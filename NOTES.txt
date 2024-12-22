@@ -1,0 +1,5 @@
+SETTING UP VIRTUAL ENVIRONMENT -----------------------------------------------
+
+Follow the instructions here:
+
+https://code.visualstudio.com/docs/python/environments
